@@ -27,8 +27,7 @@ Para desenvolver esse projeto é necessário uma CHAVE e um SEGREDO da AWS e con
 2.1 Caso seja necessário execute a última célula para limpar os dados das cidades
 3. Execute Correlação Nota,IDH, população.ipynb para extrair dados referente a correlação entre nota, idh e população.
 
-### Nesse projeto analistas de dados e cientistas de dados poderão onsultas no DataWarehouse
-para conseguir ideias e entendimento sobre os daddos do Enem 2017
+### Nesse projeto analistas de dados e cientistas de dados poderão realizar consultas no DataWarehouse para conseguir ideias e entendimento sobre os daddos do Enem 2017
 
 ### Descrição das tabelas
 
